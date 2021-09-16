@@ -1,8 +1,7 @@
 body {
     font-family: 'Roboto Mono',monospace;
     min-height: 400px;
-    background-image: url('https://cdn.pixabay.com/photo/2017/06/05/15/52/calculator-2374442_960_720.png');
-    background-color: #000000;
+    background-color: #1481e7;
     background-size: 50vh;
     background-position: center bottom;
     background-repeat: no-repeat;
@@ -23,4 +22,15 @@ body {
     color: chartreuse;
     margin-top: 5px;
     font-size: 30px;
+  }
+
+  .container2 {
+    text-align: start;
+  }
+
+  .calculadora {
+      width: 250px;
+      position: absolute;
+      top: 150px;
+      right: 150px;
   }
