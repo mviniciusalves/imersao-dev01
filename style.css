@@ -20,10 +20,7 @@ body {
   }
   
   .page-subtitle {
-    color:#ffffff;
+    color: chartreuse;
     margin-top: 5px;
-  }
-  
-  .page-logo {
-    width: 200px;
+    font-size: 30px;
   }
